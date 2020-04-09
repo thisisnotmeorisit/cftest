@@ -12,7 +12,7 @@ class LydiaSession:
         self.expires = data["expires"]
 
     async def think_thought(self, text):
-        """Process user input and return AI response text"""
+        """Process user input and return AI response text
 
         Parameters:
             text (``str``):
