@@ -1,0 +1,38 @@
+aiocf package
+=============
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   aiocf.lydia
+
+Submodules
+----------
+
+aiocf.api module
+----------------
+
+.. automodule:: aiocf.api
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+aiocf.exception module
+----------------------
+
+.. automodule:: aiocf.exception
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: aiocf
+   :members:
+   :undoc-members:
+   :show-inheritance:
